@@ -6,5 +6,5 @@
 
 <a href="https://github.com/natsunoyoru97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natsunoyoru97&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsunoyoru97&&layout=compact&exclude_repo=github-readme-stats,natsunoyoru97.github.io&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsunoyoru97&&layout=compact&exclude_repo=30daysOS_vitality,github-readme-stats,my-resume,hexo-theme-yilia-dracula,natsunoyoru97.github.io&theme=tokyonight" />
 </a>
