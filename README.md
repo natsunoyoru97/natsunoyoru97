@@ -1,8 +1,12 @@
 ### Hi there, I'm Natsunoyoru 👋
 
-- I'm focusing on the system kernel now, and I hope to know moooore about Unix/Linux system development.
+- Interested in Unix/Linux system dev, but not a pro
 
-- I'm looking for a C/C++ development intern, and here is [my resume](https://github.com/natsunoyoru97/my-resume/blob/cn/Resume-template-cn.md) (only for Chinese at this moment) 😄
+- I'm a Rustacean 🦀. Rust is great! And sometimes I also use modern C++.
+
+- Seeking for a handy programming language to do some simple tasks
+
+- Still have to know a lot in either Rust or C++
 
 <a href="https://github.com/natsunoyoru97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natsunoyoru97&show_icons=true&theme=tokyonight" />
