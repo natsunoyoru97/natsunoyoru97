@@ -6,8 +6,9 @@
 - Still have to know a lot in either Rust or C++
 
 
+Find me on Codewars:
 
-
+![Codewars Badge](https://www.codewars.com/users/natsunoyoru97/badges/large)
 Property | Data
 --- | --- 
 Language | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust) ![c++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) 
